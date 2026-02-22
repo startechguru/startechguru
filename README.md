@@ -12,14 +12,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false&animation=twinkling"/>
 </p>
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 Senior Software Engineer with **10+ years of experience** building scalable platforms, real-time systems, and cloud-native architectures.  
 Passionate about AI-driven solutions, distributed systems, DevOps automation, and modern full-stack engineering.  
 
 I enjoy coding, solving complex problems, and collaborating with high-performing teams to deliver impactful technology.
 
-## 🚀 Interests
+🚀 Interests
 
 <h3>Artificial Intelligence & Machine Learning | Real-Time & Event-Driven Systems | Cloud-Native Architecture | Blockchain & Web3 | DevOps & Infrastructure Automation | Microservices & Distributed Systems</h3>
 
@@ -29,36 +29,33 @@ I enjoy coding, solving complex problems, and collaborating with high-performing
 
 # 🛠 Tech Stack
 
-## <h2 align="center">💻 Languages</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,solidity,go,rust" />
-</p>
+<h2 align="center">💻 Languages</h2>
 
-## <h2 align="center">📚 Libraries</h2>
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,php,python,java,solidity,go,rust" />
+
+
+<h2 align="center">📚 Libraries</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,threejs,materialui,nodejs" />
 </p>
 
-## <h2 align="center">🧱 Frameworks</h2>
+<h2 align="center">🧱 Frameworks</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,express,angular,vue,tailwind,django" />
 </p>
 
-## <h2 align="center">🗄 Databases</h2>
+<h2 align="center">🗄 Databases</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-## <h2 align="center">⚙️ Tools & Cloud</h2>
+<h2 align="center">⚙️ Tools & Cloud</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,aws,docker,kubernetes,jenkins" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false&animation=twinkling"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:8A2BE2,100:FF0080"/>
 </p>
 
 
