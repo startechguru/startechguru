@@ -30,11 +30,13 @@ I enjoy coding, solving complex problems, and collaborating with high-performing
 
 ## 🛠 Tech Stack
 
-<h2 align="center">💻 Languages</h2>
+<p align="center">
+  
+  ### 💻 Languages
 
   <img align="center" src="https://skillicons.dev/icons?i=js,ts,php,python,java,solidity,go,rust" />
 
-
+</p>
 
 <p align="center">
   
