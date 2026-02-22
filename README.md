@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Frontend+Maestro+🎨;Backend+Virtuoso+🌐;AI+Explorer+🧠;Blockchain+Engineer+🔗;Cloud+Architect+☁️;CI%2FCD+Ninja+🚀;Microservices+Builder+🧱;Security+Advocate+🛡️" />
+<h3> 🎨 Frontend Maestro    🌐 Backend Virtuoso    🧠 AI Explorer    🔗 Blockchain Engineer
+☁️ Cloud Architect    🚀 CI/CD Ninja    🧱 Microservices Builder
+🕵️ Testing Enthusiast    🌐 Multilingual Developer    🛡️ Security Advocate</h3>
 </p>
 
 ---
@@ -20,38 +22,33 @@ I enjoy coding, solving complex problems, and collaborating with high-performing
 
 ## 🚀 Interests
 
-- Artificial Intelligence & Machine Learning  
-- Real-Time & Event-Driven Systems  
-- Cloud-Native Architecture  
-- Blockchain & Web3  
-- DevOps & Infrastructure Automation  
-- Microservices & Distributed Systems  
+<h3>Artificial Intelligence & Machine Learning | Real-Time & Event-Driven Systems | Cloud-Native Architecture | Blockchain & Web3 | DevOps & Infrastructure Automation | Microservices & Distributed Systems</h3>
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+## <h2 align="center">💻 Languages</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,solidity,go,rust" />
 </p>
 
-## 📚 Libraries
+## <h2 align="center">📚 Libraries</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,threejs,materialui,nodejs" />
 </p>
 
-## 🧱 Frameworks
+## <h2 align="center">🧱 Frameworks</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,express,angular,vue,tailwind,django" />
 </p>
 
-## 🗄 Databases
+## <h2 align="center">🗄 Databases</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-## ⚙️ Tools & Cloud
+## <h2 align="center">⚙️ Tools & Cloud</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,aws,docker,kubernetes,jenkins" />
 </p>
@@ -61,21 +58,12 @@ I enjoy coding, solving complex problems, and collaborating with high-performing
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=startechguru&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=startechguru&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=startechguru&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=30" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=startechguru&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
-
-# 🤝 Let's Connect
-
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=startechguru&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
