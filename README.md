@@ -12,30 +12,31 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false&animation=twinkling"/>
 </p>
-👨‍💻 About Me
+##👨‍💻 About Me
 
 Senior Software Engineer with **10+ years of experience** building scalable platforms, real-time systems, and cloud-native architectures.  
 Passionate about AI-driven solutions, distributed systems, DevOps automation, and modern full-stack engineering.  
 
 I enjoy coding, solving complex problems, and collaborating with high-performing teams to deliver impactful technology.
 
-🚀 Interests
+##🚀 Interests
 
-<h3>Artificial Intelligence & Machine Learning | Real-Time & Event-Driven Systems | Cloud-Native Architecture | Blockchain & Web3 | DevOps & Infrastructure Automation | Microservices & Distributed Systems</h3>
+###Artificial Intelligence & Machine Learning | Real-Time & Event-Driven Systems | Cloud-Native Architecture | Blockchain & Web3 | DevOps & Infrastructure Automation | Microservices & Distributed Systems</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false&animation=twinkling"/>
 </p>
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <h2 align="center">💻 Languages</h2>
 
   <img align="center" src="https://skillicons.dev/icons?i=js,ts,php,python,java,solidity,go,rust" />
 
 
-<h2 align="center">📚 Libraries</h2>
+
 <p align="center">
+  ###📚 Libraries
   <img src="https://skillicons.dev/icons?i=react,redux,threejs,materialui,nodejs" />
 </p>
 
@@ -59,7 +60,7 @@ I enjoy coding, solving complex problems, and collaborating with high-performing
 </p>
 
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=startechguru&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=30" />
