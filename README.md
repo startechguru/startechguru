@@ -12,16 +12,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false&animation=twinkling"/>
 </p>
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 Senior Software Engineer with **10+ years of experience** building scalable platforms, real-time systems, and cloud-native architectures.  
 Passionate about AI-driven solutions, distributed systems, DevOps automation, and modern full-stack engineering.  
 
 I enjoy coding, solving complex problems, and collaborating with high-performing teams to deliver impactful technology.
 
-##🚀 Interests
+## 🚀 Interests
 
-###Artificial Intelligence & Machine Learning | Real-Time & Event-Driven Systems | Cloud-Native Architecture | Blockchain & Web3 | DevOps & Infrastructure Automation | Microservices & Distributed Systems</h3>
+### Artificial Intelligence & Machine Learning | Real-Time & Event-Driven Systems | Cloud-Native Architecture | Blockchain & Web3 | DevOps & Infrastructure Automation | Microservices & Distributed Systems</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false&animation=twinkling"/>
@@ -36,7 +36,7 @@ I enjoy coding, solving complex problems, and collaborating with high-performing
 
 
 <p align="center">
-  ###📚 Libraries
+  ### 📚 Libraries
   <img src="https://skillicons.dev/icons?i=react,redux,threejs,materialui,nodejs" />
 </p>
 
