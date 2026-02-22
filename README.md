@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false&animation=twinkling"/>
 </p>
+
 ## 👨‍💻 About Me
 
 Senior Software Engineer with **10+ years of experience** building scalable platforms, real-time systems, and cloud-native architectures.  
