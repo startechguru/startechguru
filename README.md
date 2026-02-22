@@ -45,18 +45,24 @@ I enjoy coding, solving complex problems, and collaborating with high-performing
   <img src="https://skillicons.dev/icons?i=react,redux,threejs,materialui,nodejs" />
 </p>
 
-<h2 align="center">🧱 Frameworks</h2>
 <p align="center">
+
+###  🧱 Frameworks
+  
   <img src="https://skillicons.dev/icons?i=nextjs,express,angular,vue,tailwind,django" />
 </p>
 
-<h2 align="center">🗄 Databases</h2>
 <p align="center">
+
+ ### 🗄 Databases
+  
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-<h2 align="center">⚙️ Tools & Cloud</h2>
 <p align="center">
+
+ ### ⚙️ Tools & Cloud
+
   <img src="https://skillicons.dev/icons?i=github,aws,docker,kubernetes,jenkins" />
 </p>
 
